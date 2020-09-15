@@ -215,7 +215,15 @@ Arduino Workshop with EE Engineering Club
 
 ![](https://i.imgur.com/nh0bUjB.jpg)
 
-![](https://i.imgur.com/pSqdtqp.jpg)
 
-Proposed a mini internal competition for juniors
+
+
+
+## 2021
+
+
+
+
+
+
 
