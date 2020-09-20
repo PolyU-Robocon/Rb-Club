@@ -1,229 +1,62 @@
 # What did Robotics Club do?
 
-### **Over the course of 10 years in ABU Robocon HK**
+## Daily in Robocon Studio \(要寫\) <a id="daily-in-robocon-studio-yao-xie"></a>
 
-=&gt; **4 First Runner-up**
+​
 
-=&gt; **2 Second Runner-up**
-
-=&gt; **7 Best Artistic Design Award**
-
-=&gt; **6 Best Engineering Award**
-
-**Numerous amount of Inter-Universities activities were organized over the years** **to exchange knowledge and experience.**
-
-**Numerous amount of Intra-University activities were organized to** **introduce Robotics to students, provide practical hands-on learning experience,** **helping student to unleash their potential within.**
-
-**For the graduates from Robotics Team:**
-
-* **Some of them are now pursuing a doctoral degree at Carnegie Mellon University** 
-* **Some of them are developing surgical robots** 
-* **Some of them are developing on solar cars and electric hydrofoil surfboards** 
-* **Some of them are developing drones** 
-* **Some of them are developing industrial AGVs** 
-* **Some of them are tutors in universities**
-
-## 2006
-
-ABU Robocon 2006 HK \( **First Runner-up, Second Runner-up** \)
-
-## 2007
-
-ABU Robocon 2007 HK \( **Best Artistic Design Award** \)
-
-## 2008
-
-ABU Robocon 2008 HK \( **First Runner-up, Best Artistic Design Award, Best Engineering Award** \)
-
-## 2009
-
-ABU Robocon 2009 HK \( **Second Runner-up, Best Artistic Design Award** \)
-
-## 2010
-
-ABU Robocon 2010 HK \( **Best Artistic Design Award, Best Engineering Award** \)
-
-## 2011
-
-ABU Robocon 2011 HK \( **First Runner-up, Best Artistic Design Award, Best Engineering Award** \)
-
-## 2015
-
-ABU Robocon 2015 HK \( **Best Artistic Design Award, Best Engineering Award** \)
-
-![](https://i.imgur.com/OMxXIlh.jpg)
-
- ![](https://i.imgur.com/pNPGbsp.jpg) ![](https://i.imgur.com/a5KUh5u.jpg)
-
-## 2017
-
-ABU Robocon 2017 HK \( **First Runner-up** \)
-
-![](https://i.imgur.com/FFAOmsQ.jpg)
-
-* Red Shadow
-
-{% embed url="https://youtu.be/vhDIzXrSyX4" caption="" %}
-
-### Promotions
+## Promotions <a id="promotions"></a>
 
 PolyU Info Day Demo
-
-### Diplomatic
-
-HKU & CityU visit PolyU After Contest
-
- ![](https://i.imgur.com/lLeX6cU.jpg) ![](https://i.imgur.com/buhWulr.jpg)
-
-### Workshops
-
-Karrie International Holdings Ltd. \([http://www.karrie.com/](http://www.karrie.com/)\) invited Dr. Frank HF Leung, Robocon students and instructors visit their factory and theme park.
-
-![](https://i.imgur.com/2sJ08eB.jpg)
-
-## 2018
-
-ABU Robocon 2018 HK \( **Best Artistic Design Award, Best Engineering Award** \)
-
- ![](https://i.imgur.com/ahwI27a.jpg) ![](https://i.imgur.com/FKPXH7v.jpg)
-
-### Promotions
-
-PolyU Info Day Demo
-
-Mass Mail + Google Form to recruit
-
-Junior Meetings
-
-![](https://i.imgur.com/2liadtE.jpg)
-
-### Training
-
-Junior Training \(Tutored by Seniors\)
-
-![](https://i.imgur.com/mu6LnZz.jpg)
-
-### Diplomatic
-
-PolyU Visit IVE
-
-![](https://i.imgur.com/JuWy2re.jpg)
-
-### Workshops
-
-NVidia - TX2 Training workshop in Hong Kong science park
-
-![](https://i.imgur.com/MUR906S.jpg)
-
-## 2019
-
-ABU Robocon 2019 HK \( **Best Engineering Award** \)
-
-![](http://www.roboconhk.com/2019/photos/engineering.jpg)
-
-* Crimson 
-
-{% embed url="https://youtu.be/NK8FHUy4pcw" caption="" %}
-
-* Mysterious 
-
-{% embed url="https://youtu.be/5mI\_kRjqNiM\'" caption="" %}
-
-### Promotions
-
-PolyU Info Day Demo
-
-Promotion to Secondary School Students
 
 ![](https://i.imgur.com/eM0wqgS.jpg)
 
-Mass Mail + Google Form to recruit
+## Exchange <a id="exchange"></a>
 
-Junior Meetings
+* **Friendly exchange with CUHK**
 
-### Training
+![](https://images2.imgbox.com/a4/31/cUv0BL1u_o.jpg)![](https://images2.imgbox.com/33/f1/pMUMYo21_o.jpg)
 
-Juniors Training \(Tutored by seniors\)
+* **Friendly exchange with HKUST**
 
-![](https://i.imgur.com/QTYKEsM.jpg?1)
+![](https://images2.imgbox.com/41/fb/bA4aM2Yf_o.jpg)![](https://images2.imgbox.com/71/e9/MAEyrF9B_o.jpg)
 
-![](https://i.imgur.com/HeqIjve.jpg)
+* **Friendly match with other local institutes**
 
-![](https://i.imgur.com/H7u3JZS.jpg)
+![](https://images2.imgbox.com/f0/34/6D0IGSdw_o.jpg)![](https://images2.imgbox.com/dc/f7/VstWn3iX_o.jpg)
 
-### Diplomatic
+​
 
-Added Final Year Project students from Mechanical Engineering
+* **Friendly exchange with HKU**
 
-HKU visit PolyU After Contest
+![](https://i.imgur.com/WWAZImO.jpg)![](https://i.imgur.com/LLYKpJM.jpg)
 
- ![](https://i.imgur.com/9MtoNc5.jpg) ![](https://i.imgur.com/LLYKpJM.jpg)
+* **CityU & HKU visit PolyU after contest**
 
-PolyU visit HKU After Contest
+![](https://images2.imgbox.com/de/75/YEi0aQnw_o.jpg)![](https://images2.imgbox.com/59/dc/COMmA09n_o.jpg)![](https://images2.imgbox.com/71/a7/xr3HRwms_o.jpg)
 
-![](https://i.imgur.com/WWAZImO.jpg)
+## Workshops <a id="workshops"></a>
 
-![](https://i.imgur.com/RfOBkHt.jpg)
+### Training courses <a id="training-courses"></a>
 
-## 2020
+* **Arduino Workshop with Polyu EE Engineering Club**
 
-### Promotions
+![](https://i.imgur.com/oTCUzpU.jpg)![](https://i.imgur.com/9gyrpOj.jpg)![](https://i.imgur.com/nh0bUjB.jpg)
 
-Recruitment in Freshmen Seminar
+* **Junior training**
 
-Mass Mail + Google Form to recruit
+![](https://i.imgur.com/2liadtE.jpg)![](https://i.imgur.com/mu6LnZz.jpg)![](https://i.imgur.com/eboKG5O.jpg)![](https://i.imgur.com/H7u3JZS.jpg)![](https://i.imgur.com/hSd4IF1.jpg)
 
-* Club Member :
+* **Nvidia - TX2 Training workshop in Hong Kong Science Park**
 
-![](https://i.imgur.com/pvg4Gmp.png)
+![](https://i.imgur.com/MUR906S.jpg)
 
-![](https://i.imgur.com/FJl8fI6.png)
+### Industrial Visit <a id="industrial-visit"></a>
 
-* Club Junior :
+* **Karrie International Holdings Ltd. \(**[**http://www.karrie.com/**](http://www.karrie.com/)**\) invited Dr. Frank HF Leung and Robocon team visit their factory and theme park.**
 
-![](https://i.imgur.com/aLZShJl.png)
+![](https://i.imgur.com/2sJ08eB.jpg)
 
-![](https://i.imgur.com/PqBC1UD.png)
+* **PolyU visited SMC Automation \(Hong Kong\) workshop**
 
-Junior Meetings
-
-![](https://i.imgur.com/NhMqWmi.jpg)
-
-### Competition
-
-Junior Training \(Tutored by seniors\)
-
-![](https://i.imgur.com/RU5RgxH.jpg)
-
-![](https://i.imgur.com/eboKG5O.jpg)
-
-![](https://i.imgur.com/hSd4IF1.jpg)
-
-![](https://i.imgur.com/4ztjhso.jpg)
-
-### Diplomatic
-
-Friendship with PolyU EE Engineering Club
-
-![](https://i.imgur.com/oTCUzpU.jpg)
-
-![](https://i.imgur.com/9gyrpOj.jpg)
-
-### Workshops
-
-Arduino Workshop with EE Engineering Club
-
-![](https://i.imgur.com/nh0bUjB.jpg)
-
-
-
-
-
-## 2021
-
-
-
-
-
-
+![](https://images2.imgbox.com/c6/fc/pVnU3Zt3_o.jpg)![](https://images2.imgbox.com/5b/ec/TzPdMQAi_o.jpg)
 

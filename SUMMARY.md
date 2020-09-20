@@ -5,6 +5,7 @@
 ## Prologue
 
 * [Introduction](prologue/intro.md)
+* [Our history](prologue/ourhistory.md)
 * [What did Robotics Club do?](prologue/whatrbclubdo.md)
 
 ## Essentials
