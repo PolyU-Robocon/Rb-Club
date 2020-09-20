@@ -119,7 +119,7 @@ NVidia - TX2 Training workshop in Hong Kong science park
 
 ABU Robocon 2019 HK \( **Best Engineering Award** \)
 
- ![](https://github.com/vinesmsuic/Rb-Club/tree/ee29bd7567fa8add903e3c2446779120a9d40add/.gitbook/assets/image%20%282%29.png) ![](https://i.imgur.com/qdtBsMh.jpg)
+ ![](https://github.com/vinesmsuic/Rb-Club/tree/ee29bd7567fa8add903e3c2446779120a9d40add/.gitbook/assets/image%20%282%29.png) ![](../.gitbook/assets/engineering.jpg)
 
 * Crimson 
 
