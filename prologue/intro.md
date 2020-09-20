@@ -34,6 +34,7 @@ If you have any problem, please contact our instructor Sam.
 * 2017: 1ST RUNNER UP
 * 2018: BEST ARTISTIC DESIGN AWARD, BEST ENGINEERING AWARD
 * 2019: BEST ENGINEERING AWARD
+* 2020: BEST INSTITUTE ENTITY AWARD
 
 ## Club Structure \(For Juniors\)
 
