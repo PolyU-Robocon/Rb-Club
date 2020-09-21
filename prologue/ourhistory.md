@@ -27,7 +27,8 @@
 
 ## 2006
 
- First Runner-up, Second Runner-up
+* First Runner-up
+* Second Runner-up
 
 ![](https://images2.imgbox.com/f0/44/QpwJmX0U_o.jpg)
 
