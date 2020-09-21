@@ -14,17 +14,21 @@ PolyU Info Day Demo
 
 * **Friendly exchange with CUHK**
 
-![](https://images2.imgbox.com/a4/31/cUv0BL1u_o.jpg)![](https://images2.imgbox.com/33/f1/pMUMYo21_o.jpg)
+![](https://images2.imgbox.com/a4/31/cUv0BL1u_o.jpg)
+
+![](https://images2.imgbox.com/33/f1/pMUMYo21_o.jpg)
 
 * **Friendly exchange with HKUST**
 
-![](https://images2.imgbox.com/41/fb/bA4aM2Yf_o.jpg)![](https://images2.imgbox.com/71/e9/MAEyrF9B_o.jpg)
+![](https://images2.imgbox.com/41/fb/bA4aM2Yf_o.jpg)
+
+![](https://images2.imgbox.com/71/e9/MAEyrF9B_o.jpg)
 
 * **Friendly match with other local institutes**
 
-![](https://images2.imgbox.com/f0/34/6D0IGSdw_o.jpg)![](https://images2.imgbox.com/dc/f7/VstWn3iX_o.jpg)
+![](https://images2.imgbox.com/f0/34/6D0IGSdw_o.jpg)
 
-​
+![](https://images2.imgbox.com/dc/f7/VstWn3iX_o.jpg)
 
 * **Friendly exchange with HKU**
 
