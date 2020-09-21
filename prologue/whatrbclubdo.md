@@ -40,7 +40,11 @@ PolyU Info Day Demo
 
 * **Arduino Workshop with Polyu EE Engineering Club**
 
-![](https://i.imgur.com/oTCUzpU.jpg)![](https://i.imgur.com/9gyrpOj.jpg)![](https://i.imgur.com/nh0bUjB.jpg)
+![](https://i.imgur.com/oTCUzpU.jpg)
+
+![](https://i.imgur.com/9gyrpOj.jpg)
+
+![](https://i.imgur.com/nh0bUjB.jpg)
 
 * **Junior training**
 
