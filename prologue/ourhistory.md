@@ -83,7 +83,7 @@ First Runner-up
 
 ![](https://images2.imgbox.com/b4/04/IGrwYIUV_o.jpg)
 
-<!-- {% embed url="https://www.youtube.com/watch?v=vhDIzXrSyX4" %} -->
+https://www.youtube.com/watch?v=vhDIzXrSyX4
 
 ## 2018
 
