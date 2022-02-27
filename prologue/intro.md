@@ -1,3 +1,6 @@
+* TOC
+* Testing
+{:toc}
 # Introduction
 
 ## Who are we?
