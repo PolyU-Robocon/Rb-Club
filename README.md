@@ -1,5 +1,7 @@
 ---
-showToc: true
+layout: post
+title: "Welcome to Jekyll!"
+toc: true
 ---
 # Gitbook
 This is a short introduction of PolyU robotics club.  
