@@ -1,6 +1,6 @@
 ---
 title: PolyU Robotics Club
-filename: README
+filename: README.md
 --- 
 # Welcome
 This is the PolyU Robotics Club Website
