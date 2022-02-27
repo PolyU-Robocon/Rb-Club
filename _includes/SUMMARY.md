@@ -1,5 +1,5 @@
-## [Robotics Club](../README.md)
+## [Robotics Club]({{ site.baseurl}}/README)
 # About US
-## [Introduction](../prologue/intro)
-## [Our history](../prologue/ourhistory)
-## [What did Robotics Club do?](../prologue/whatrbclubdo)
+## [Introduction]({{ site.baseurl}}/prologue/intro)
+## [Our history]({{ site.baseurl}}/prologue/ourhistory)
+## [What did Robotics Club do?]({{ site.baseurl}}/prologue/whatrbclubdo)
