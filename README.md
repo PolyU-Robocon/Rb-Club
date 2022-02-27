@@ -1,3 +1,4 @@
+{% include toc.html html=content %}
 ---
 layout: post
 title: "Welcome to Jekyll!"
