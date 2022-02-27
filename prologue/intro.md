@@ -1,6 +1,3 @@
-* TOC
-* Testing
-{:toc}
 # Introduction
 
 ## Who are we?
@@ -23,11 +20,12 @@ Being members of the Club, we expect students to be:
 
 **Robotics club juniors are for competition, not for leisure learning.**
 
-~~If you have any problem, please contact our instructor Sam.~~
+If you have any problem, please contact us at polyu.robocon.studio@gmail.com
 
-## Club Structure \(要改\)
+## Club Structure
+![image](https://user-images.githubusercontent.com/45313904/155889753-d4d9ca6e-42a2-4c4b-81be-9914076f191c.png)
 
-![](https://i.imgur.com/rrdUsyj.png)
+
 
 ## Requirements
 
@@ -53,16 +51,15 @@ Finding tools and materials
 Notices:
 
 > * Be Polite.
-> * ~~CF505~~ W002 is opened for Juniors in available timeslot:
+> * W002 is opened for Juniors in available timeslot:
 > * Juniors need to ask for tasks from the senior \(please note the diagram\)
-> * Please keep ~~CF505~~ Tidy after use.
+> * Please keep  Tidy after use.
 
-~~Available Timeslot:~~
-
-> * ~~Mon: ❌\(reserved for Core Members\)~~
->   * ~~Tues: 4pm - 10pm~~ 
->   * ~~Wed: 1:30pm - 10pm~~
->   * ~~Thurs: 1pm - 10pm~~
->   * ~~Fri: 1pm-3pm, 7pm - 10pm~~
->   * ~~Sat: 3pm - 10pm~~
+Available Timeslot:
+>   * Mon: 
+>   * Tues: 7pm - 8pm\(reserved for regular Meeting\)
+>   * Wed:
+>   * Thurs: 
+>   * Fri: 
+>   * Sat: 
 
