@@ -1,6 +1,3 @@
-* TOC
-{:toc}
-
 # Welcome
 This is the PolyU Robotics Club Website
 
