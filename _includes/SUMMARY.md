@@ -1,6 +1,3 @@
----
-page: SUMMARY
----
 # Table of contents
 
 * [Birds of a feather flock together.](../README.md)
