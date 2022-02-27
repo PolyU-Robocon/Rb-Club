@@ -54,8 +54,8 @@
             {% for page in site.pages %}
               <a href={{ page.url }}>{{ page.title }}</a><br/>
             {% endfor %}
-            {% capture SUMMARY %}{% include SUMMARY.md %}{% endcapture %}
-            {% SUMMARY.content %}
+            {% capture summary %}{% include SUMMARY.md %}{% endcapture %}
+            {% summary | markdownify %}
           </div>
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is created by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
