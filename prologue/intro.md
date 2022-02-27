@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-We are PolyU FENG Robotics Club. PolyU FENG Robotics Club is a club supported by the Faculty of Engineering \(FENG\) and hosted by the Department of Electronic and Information Engineering \(EIE\). The aim of the Club is for gathering a group of students, alumni, and friends who are interested at Robotics for sharing information and experience. In particular, the Club would be actively supporting the development of Robots for joining various competitions, including the PolyU teams of ABU Asia-Pacific Robot Contest \(RoboCon\) in every year.
+We are PolyU FENG Robotics Club. PolyU FENG Robotics Club is a club supported by the Faculty of Engineering \(FENG\) and hosted by theIndustrial Centre \(IC\). The aim of the Club is for gathering a group of students, alumni, and friends who are interested at Robotics for sharing information and experience. In particular, the Club would be actively supporting the development of Robots for joining various competitions, including the PolyU teams of ABU Asia-Pacific Robot Contest \(RoboCon\) in every year.
 
 ![](../.gitbook/assets/image.png)
 
@@ -50,9 +50,9 @@ Finding tools and materials
 Notices:
 
 > * Be Polite.
-> * CF505 is opened for Juniors in available timeslot:
+> * ~~CF505~~ W002 is opened for Juniors in available timeslot:
 > * Juniors need to ask for tasks from the senior \(please note the diagram\)
-> * Please keep CF505 Tidy after use.
+> * Please keep ~~CF505~~ Tidy after use.
 
 ~~Available Timeslot:~~
 
