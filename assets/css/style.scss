@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-inner h1{
-  font-size: 52px;
+.inner header h1{
+  font-size: 65px;
+  width: 600px;
 }
