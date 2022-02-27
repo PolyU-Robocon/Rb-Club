@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to Jekyll!"
 toc: true
 ---
+{{ content | toc }}
 {:toc}
 # Gitbook
 This is a short introduction of PolyU robotics club.  
