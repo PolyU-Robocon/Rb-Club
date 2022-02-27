@@ -10,4 +10,3 @@ New-Web: https://polyu-robocon.github.io/polyu-robotics-club/prologue/intro
 Old-web: https://polyurobotics.gitbook.io/polyu-robotic-club/prologue/intro  
 Welcome.
 
-{% include toc.html html=content %}
