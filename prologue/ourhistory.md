@@ -1,7 +1,4 @@
 # Our history
-
-### \*\*\*\*
-
 ### **Over the course of 10 years in ABU Robocon HK**
 
 =&gt; **4 First Runner-up**
