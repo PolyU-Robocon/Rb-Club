@@ -1,4 +1,5 @@
-## [Robotics Club](/polyu-robotics-club/README)
+# Home Page
+## [Robotics Club](/polyu-robotics-club/)
 # About US
 ## [Introduction](/polyu-robotics-club/prologue/intro)
 ## [Our history](/polyu-robotics-club/prologue/ourhistory)
