@@ -1,6 +1,3 @@
----
-title: PolyU Robotics Club
---- 
 # Welcome
 This is the PolyU Robotics Club Website
 
