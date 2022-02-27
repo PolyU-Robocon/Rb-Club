@@ -2,7 +2,8 @@
 
 ## Who are we?
 
-![](../.gitbook/assets/image%20%281%29.png)
+![roboconIconReal](https://user-images.githubusercontent.com/45313904/155892676-7a863657-f4a3-4cb4-862e-839b5109c992.png)
+
 
 We are PolyU FENG Robotics Club. PolyU FENG Robotics Club is a club supported by the Faculty of Engineering \(FENG\) and hosted by theIndustrial Centre \(IC\). The aim of the Club is for gathering a group of students, alumni, and friends who are interested at Robotics for sharing information and experience. In particular, the Club would be actively supporting the development of Robots for joining various competitions, including the PolyU teams of ABU Asia-Pacific Robot Contest \(RoboCon\) in every year.
 
