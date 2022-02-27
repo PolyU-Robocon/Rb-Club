@@ -54,6 +54,7 @@
             {% for page in site.pages %}
               <a href={{ page.url }}>{{ page.title }}</a><br/>
             {% endfor %}
+            {% capture SUMMARY %}{% include SUMMARY.md %}{% endcapture %}
             {% SUMMARY.content %}
           </div>
           {% if site.github.is_project_page %}
