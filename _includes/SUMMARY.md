@@ -1,5 +1,5 @@
 
-# Home Page: {{page.name}}
+# Home Page:
 ## [Robotics Club](/polyu-robotics-club/) <a id="Selected">
 # About US
 ## [Introduction](/polyu-robotics-club/prologue/intro)
