@@ -1,6 +1,6 @@
 
-# Home Page: {page.name}
-## [Robotics Club](/polyu-robotics-club/)
+# Home Page: {{page.name}}
+## [Robotics Club](/polyu-robotics-club/) <a id="Selected">
 # About US
 ## [Introduction](/polyu-robotics-club/prologue/intro)
 ## [Our history](/polyu-robotics-club/prologue/ourhistory)
