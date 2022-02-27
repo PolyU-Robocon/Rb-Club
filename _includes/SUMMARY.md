@@ -1,4 +1,5 @@
-# Home Page
+
+# Home Page: {page.name}
 ## [Robotics Club](/polyu-robotics-club/)
 # About US
 ## [Introduction](/polyu-robotics-club/prologue/intro)
