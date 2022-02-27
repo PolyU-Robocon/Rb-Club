@@ -1,8 +1,11 @@
 # What did Robotics Club do?
 
-## Daily in Robocon Studio \(要寫\) <a id="daily-in-robocon-studio-yao-xie"></a>
-
-​
+## Daily in Robocon Studio <a id="daily-in-robocon-studio-yao-xie"></a>
+* Build Robot
+* Find out good food in or around polyu
+* learn lot of new stuff
+* do lot of new thing
+* work with IC stuff
 
 ## Promotions <a id="promotions"></a>
 
