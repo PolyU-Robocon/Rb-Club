@@ -7,11 +7,11 @@ page: SUMMARY
 
 ## Prologue
 
-* [Introduction](../prologue/intro.md)
-* [Our history](../prologue/ourhistory.md)
-* [What did Robotics Club do?](../prologue/whatrbclubdo.md)
+* [Introduction](../prologue/intro)
+* [Our history](../prologue/ourhistory)
+* [What did Robotics Club do?](../prologue/whatrbclubdo)
 
 ## Essentials
 
-* [Markdown](../essentials/basic-markdown.md)
-* [Essential Tools in Lab](../essentials/basic-tut1.md)
+* [Markdown](../essentials/basic-markdown)
+* [Essential Tools in Lab](../essentials/basic-tut1)
