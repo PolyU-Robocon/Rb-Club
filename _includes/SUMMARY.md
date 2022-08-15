@@ -6,4 +6,4 @@
 ## [Our history](/polyu-robotics-club/prologue/ourhistory)
 ## [What did we do?](/polyu-robotics-club/prologue/whatrbclubdo)
 # Special Thanks
-## [Sponsor]()
+## [Sponsor](/polyu-robotics-club/Sponsor/list)
