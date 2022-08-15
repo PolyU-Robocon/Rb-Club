@@ -21,7 +21,7 @@
 * **Some of them are developing drones** 
 * **Some of them are developing industrial AGVs** 
 * **Some of them are tutors in universities**
-
+* **Some of them are developing robotics related stuff in big company(Such as TTI, ASM)**
 ## 2006
 
 * First Runner-up
