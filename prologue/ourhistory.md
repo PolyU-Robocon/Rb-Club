@@ -110,6 +110,20 @@ Best Institute Award
 ![](http://www.roboconhk.com/2020/photos/institute.jpg)
 
 
+## 2022
+### Robocon 2022
+![image](https://user-images.githubusercontent.com/45313904/184632571-d08300d1-d18a-4fc0-b5a4-7c7f8ec097c6.png)
+
+### Friendly Match With HKU
+![image](https://user-images.githubusercontent.com/45313904/184633067-75721b78-d53e-4719-b06c-84888037d6e0.png)
+
+### HKU Friendly Visit (with CUHK)
+![image](https://user-images.githubusercontent.com/45313904/184633611-3c0c9a67-a3b1-4ac4-972a-0f3ccce09ef5.png)
+
+### CUHK Friendly Visit
+Alan forgot take photo ("-_-)
+### IVE Friendly Visit (with CityU)
+![image](https://user-images.githubusercontent.com/45313904/184633675-6badb181-b460-433f-b967-acdb81b775d4.png)
 
 
 
