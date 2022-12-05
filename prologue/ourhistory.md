@@ -122,8 +122,21 @@ Best Institute Award
 
 ### CUHK Friendly Visit
 Alan forgot take photo ("-_-)
+Now have la
+![image](https://user-images.githubusercontent.com/45313904/205599411-d72e2596-200c-4f3f-9e25-31df5337d6de.png)
+
 ### IVE Friendly Visit (with CityU)
 ![image](https://user-images.githubusercontent.com/45313904/184633675-6badb181-b460-433f-b967-acdb81b775d4.png)
+
+### Photo (2022)
+![photo_2022-12-05_17-17-06](https://user-images.githubusercontent.com/45313904/205599734-f00a8efa-35e7-44fd-84ec-3d32a7ffc2fb.jpg)
+CityU (CUHK Friendly Visit)
+![photo_2022-12-05_17-18-20](https://user-images.githubusercontent.com/45313904/205599992-742bea02-0599-4272-8731-5fabfe1f651a.jpg)
+HKU (CUHK Friendly Visit)
+![photo_2022-12-05_17-20-23](https://user-images.githubusercontent.com/45313904/205600414-2951e7cf-5fce-4ceb-a929-5ad4798914eb.jpg)
+CUHK (CUHK Friendly Visit)
+![photo_2022-12-05_17-21-45](https://user-images.githubusercontent.com/45313904/205600697-578636a0-fe58-4f33-8191-ec786f0af7fd.jpg)
+![photo_2022-12-05_17-23-36](https://user-images.githubusercontent.com/45313904/205601123-f3ef7b14-25cc-4dd2-972c-287c3dcde04a.jpg)
 
 
 
