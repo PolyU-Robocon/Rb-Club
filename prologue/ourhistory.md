@@ -25,6 +25,8 @@
 
 ## 2023
 we have IC...
+> **Note**
+> More to be added
 
 ## 2022
 ### Robocon 2022
